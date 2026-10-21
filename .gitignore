@@ -1,0 +1,10 @@
+
+# Compiled C programs
+*.exe
+*.obj
+*.o
+
+# Visual Studio temporary files
+.vs/
+Debug/
+Release/
